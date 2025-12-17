@@ -11,6 +11,7 @@ import streamlit as st
 import optuna
 
 
+
 # -----------------------------
 # IRR helper (bisection on NPV)
 # -----------------------------
